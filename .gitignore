@@ -31,3 +31,6 @@ models/
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Hugging Face downloaded models list
+downloaded_models.txt
